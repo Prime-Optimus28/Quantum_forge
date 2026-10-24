@@ -1,0 +1,6 @@
+{
+  "name": "QuantumForge Studio",
+  "description": "Digital Quantum Computing Learning Platform, Online Quantum Circuit Composer, and AI-Driven Circuit Optimization Lab",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
